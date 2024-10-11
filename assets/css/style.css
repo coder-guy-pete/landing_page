@@ -20,7 +20,8 @@ a {
 
 header {
     text-align: right;
-    position: sticky;
+    position: fixed right;
+    display: block;
 }
 body {
     text-align: center;
